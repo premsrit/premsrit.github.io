@@ -22,21 +22,26 @@ News
   🏆 <b>FoREST</b> received the <b>SAC Highlight Award</b> at EMNLP 2025!
   </div>
 
- <div class="news-block">
-  <b>Sep 2025</b><br>
-  📄 Our new paper <b>FoR-SALE</b> is now available on arXiv! Read the <a href="https://arxiv.org/abs/2509.23452">preprint</a>.
-  </div>
 
   <div class="news-block">
   <b>Oct 2025</b><br>
-  🎙️ I will giving <b>Oral Presenting of FoREST</b> at EMNLP 2025 in Suzhou, China!
+  🎙️ I will give <b>Oral Presenting of FoREST</b> at EMNLP 2025 in Suzhou, China!
+  </div>
+
+  <div class="news-block">
+  <b>Sep 2025</b><br>
+  🎓 In October, I will visit the <b>IVADO Lab</b> in Montreal as a <b>visiting scholar</b> and attend the <b>COLM conference</b>.
+  </div>
+
+  <div class="news-block">
+  <b>Sep 2025</b><br>
+  📄 Our new paper <b>FoR-SALE</b> is now available on arXiv! Read the <a href="https://arxiv.org/abs/2509.23452">preprint</a>.
   </div>
 
   <div class="news-block">
   <b>Aug 2025</b><br>
   📄 <b>FoREST</b> accepted to EMNLP-Main 2025!
   </div>
-
 
   <div class="news-block">
   <b>Dec 2024</b><br>
