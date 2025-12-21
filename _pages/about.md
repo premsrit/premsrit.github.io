@@ -43,3 +43,31 @@ News
   📄 <b>Compositionality Survey</b> accepted to TMLR 2024!
   </div>
 </div>
+
+Highlighted First-Author Research
+---
+
+<div class="pub-scroll">
+
+  <div class="pub-block">
+    🧠 <b>FoR-SALE:</b> Frame of Reference-guided Spatial Adjustment in Diffusion Editing<br>
+    <i>Tanawan Premsri</i>, Parisa Kordjamshidi<br>
+    <i>Preprint</i><br>
+    <a href="https://arxiv.org/abs/2509.23452" target="_blank">🔗 Preprint</a>
+  </div>
+
+  <div class="pub-block">
+    🌐 <b>FoREST:</b> Frame of Reference Evaluation in Spatial Reasoning Tasks<br>
+    <i>Tanawan Premsri</i>, Parisa Kordjamshidi<br>
+    <i>EMNLP 2025</i> — 🏆 SAC Highlight Award<br>
+    <a href="https://aclanthology.org/2025.emnlp-main.1772.pdf" target="_blank">🔗 Paper</a>
+  </div>
+
+  <div class="pub-block">
+    🔗 <b>Neuro-symbolic Training for Reasoning over Spatial Language</b><br>
+    <i>Tanawan Premsri</i>, Parisa Kordjamshidi<br>
+    <i>NAACL 2025 Findings</i><br>
+    <a href="https://aclanthology.org/2025.findings-naacl.128.pdf" target="_blank">🔗 Paper</a>
+  </div>
+
+</div>
