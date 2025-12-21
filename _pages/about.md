@@ -33,7 +33,7 @@ News
   </div>
 
   <div class="news-block">
-  <b>Oct 2025</b><br>
+  <b>Aug 2025</b><br>
   📄 <b>FoREST</b> accepted to EMNLP-Main 2025!
   </div>
 
