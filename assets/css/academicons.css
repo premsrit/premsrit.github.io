@@ -569,3 +569,40 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+.news-scroll {
+  max-height: 500px;       /* adjust as you like */
+  overflow-y: auto;
+  padding-right: 6px;
+}
+
+/* Default (light mode or no preference) */
+.news-block {
+  background-color: rgba(0, 0, 0, 0.03);
+  padding: 12px 18px;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+/* Scrollbar (works in WebKit browsers; others will just ignore) */
+.news-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.news-scroll::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+}
+
+/* Dark mode overrides */
+@media (prefers-color-scheme: dark) {
+  .news-block {
+    background-color: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.16);
+  }
+
+  .news-scroll::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.3);
+  }
+}
