@@ -1,14 +1,14 @@
 ---
 title: "FoR-SALE: Frame of Reference-guided Spatial Adjustment in LLM-based Diffusion Editing"
 collection: publications
-category: preprints
+category: conferences
 permalink: /publication/2025-11-FoR-SALE
 excerpt: 'We introduce FoR-SALE, a diffusion editing framework that incorporates spatial Frame of Reference reasoning to improve text-to-image generation. By detecting and correcting FoR misalignment between language and vision, FoR-SALE enhances spatial accuracy and improves state-of-the-art model performance by up to 5.3\%.
 '
-date: 2025-09-27
-venue: 'Preprint, Arxiv'
-paperurl: 'https://aclanthology.org/2025.emnlp-main.1772.pdf'
-citation: 'T. Premsri, P. Kordjamshidi. &quot;FoR-SALE: Frame of Reference-guided Spatial Adjustment in LLM-based Diffusion Editing&quot; <i>Preprint</i>. 2025.'
+date: 2026-08-08
+venue: 'Proceedings of the Third Conference on Language Modeling (COLM 2026)'
+paperurl: 'https://arxiv.org/abs/2509.23452'
+citation: 'T. Premsri, P. Kordjamshidi. &quot;"FoR-SALE: Frame of Reference-guided Spatial Adjustment in LLM-based Diffusion Editing" <i>Third Conference on Language Modeling, 2026</i>.'
 ---
 
 
