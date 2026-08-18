@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a 3rd-year PhD student in Computer Science at Michigan State University, advised by Prof. Parisa Kordjamshidi in the [HLR lab](https://hlr.github.io). 
+I am a 4th-year PhD student in Computer Science at Michigan State University, advised by Prof. Parisa Kordjamshidi in the [HLR lab](https://hlr.github.io). 
 I first joined the lab as an undergraduate researcher, where I discovered my interest in reasoning and AI. 
 After graduating, I continued this work as a PhD student, focusing on spatial reasoning in AI—especially in large language models and multimodal systems. I develop benchmarks, spatial reasoning methods, and diffusion editing frameworks to improve how AI interprets spatial relationships and visual perspectives, with the broader goal of enabling more robust, human-aligned spatial understanding in intelligent systems.
 
@@ -17,6 +17,11 @@ News
 ---
 
 <div class="news-scroll">
+  <div class="news-block">
+  <b>Aug 2026</b><br>
+  📄 <b>FoR-SALE</b> accepted to COLM 2026!
+  </div>
+
   <div class="news-block">
   <b>Nov 2025</b><br>
   🏆 <b>FoREST</b> received the <b>SAC Highlight Award</b> at EMNLP 2025!
